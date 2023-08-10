@@ -51,3 +51,25 @@ Generalidades del complemento QoilTools
 <p align="center">
 <img src="img_g/Ge_5.png"  width="600" alt="Ventana propiedades del proyecto QGIS">  
 </p>  
+
+Procedimiento para agregarla:
+- En el menú Configuración, Opciones se hace clic y aparece la ventana de opciones.
+
+<p align="center">
+<img src="img_g/Ge_6.png"  width="600" alt="Ventana de Opciones-Variables de QGIS">  
+</p>  
+
+- Se hace clic en el símbolo más (+) en color verde ubicado en la parte inferior derecha.
+
+<p align="center">
+<img src="img_g/Ge_7.png"  width="600" alt="Ventana de Opciones-Variables de QGIS al agregar la nueva variable">  
+</p>  
+
+- Al hacer clic, se agrega una nueva variable a la que se le asigna el nombre ***user_country*** y como valor ***Venezuela***.
+
+**¡Listo! La variable a sigo agregada.**  
+
+<p align="center">
+<img src="img_g/Ge_8.png"  width="600" alt="Ventana de Opciones-Variables de QGIS con la variable user_country agregada">  
+</p>  
+
