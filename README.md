@@ -147,5 +147,14 @@ Procedimiento para agregarla:
 | QoilYo | <img src="img_g/Ge_13.png"  width="50" alt="QoilYo"> | Ventana | 2 | 2 |
 | QoilDa | <img src="img_g/Ge_14.png"  width="50" alt="QoilDa"> | Ventana | 1 | 1 |
 | QoilDe | <img src="img_g/Ge_15.png"  width="50" alt="QoilDe"> | Ventana | 3 | 3 |
+| QoilTf | <img src="img_g/Ge_16.png"  width="50" alt="QoilTf"> | Ventana | 3 | 4 |
+| QoilAr | <img src="img_g/Ge_17.png"  width="50" alt="QoilAr"> | Ventana | 1 | 1 |
+| QoilVo | <img src="img_g/Ge_18.png"  width="50" alt="QoilVo"> | Ventana | 4 | 4 |
+| QoilUn | <img src="img_g/Ge_19.png"  width="50" alt="QoilUn"> | Ventana | 2 | 2 |
+| QoilDi | <img src="img_g/Ge_20.png"  width="50" alt="QoilDi"> | Ventana | 1 | 1 |
+| QoilCa | <img src="img_g/Ge_21.png"  width="50" alt="QoilCa"> | Ventana | 1 | 1 |
+| QoilUt | <img src="img_g/Ge_22.png"  width="50" alt="QoilUt"> | Ventana | 5 | 25 |
+| QoilTa | <img src="img_g/Ge_23.png"  width="50" alt="QoilTa"> | Directo | 1 | 1 |
+| QoilEl | <img src="img_g/Ge_24.png"  width="50" alt="QoilCa"> | Directo | 1 | 1 |
 
    
