@@ -23,6 +23,25 @@ Generalidades del complemento QoilTools
 
 - Se selecciona Instalar a partir de ZIP.
 - Se busca la carpeta comprimida QoilTools.zip.
-- 
-   
-   
+
+<p align="center">
+<img src="img_g/Ge_2.png"  width="800" alt="Ventana explorador para ubicar el archivo">  
+</p>
+
+- Seleccionado el archivo instalador se activa el botón “Instalar complemento”
+
+<p align="center">
+<img src="img_g/Ge_3.png"  width="800" alt="Ventana de instalación de complementos de QGIS con el archivo seleccionado">  
+</p>  
+
+- Se hace clic y aparece un mensaje *La instalación de un complemento de una fuente no confiable puede dañar su computadora. Continúe solo si recibió el complemento de una fuente confiable. ¿Continuar?.*
+
+<p align="center">
+<img src="img_g/Ge_4.png"  width="400" alt="Mensaje de confiabilidad del archivo">  
+</p>  
+
+- Clic sobre el botón *Si*.
+
+  **¡Listo! El complemento fue instalado.**
+
+  
