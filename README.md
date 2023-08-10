@@ -46,7 +46,7 @@ Generalidades del complemento QoilTools
 
   Variables
   =========
-  Para mejorar la experiencia con la interfaz se debe definir una variable Global ***user_country*** al momento de la instalación.
+  Para mejorar la experiencia con la interfaz se debe definir una variable Global ***user_country*** al momento de la instalación.  
 
 <p align="center">
 <img src="img_g/Ge_5.png"  width="600" alt="Ventana propiedades del proyecto QGIS">  
