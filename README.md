@@ -174,14 +174,14 @@ Procedimiento para agregarla:
 <p align="center">
 <img src="img/Ge_26.png"  width="600" alt="Barra de Herramienta QoilTools">  
 </p>  
-
-      Los botones en la barra de herramienta están agrupados en cinco grupos:
-      - El primero contiene los procesos de creación de información vectorial primaria (QoilCn, QoilCo y QoilCp).
-      - El segundo grupo está orientado a caracterización geológica, creación de yacimientos y su definición, así como análisis estructural (QoilDg, QoilYo, QoilDa y QoilDe).
-      - El tercer grupo asociado a cálculo de área y volumen con algunas herramientas para transferir información (QoilTf, QoilAr y QoilVo).
-      - Un cuarto grupo contentivo de procesos para agregar y transformar información (QoilUn, QoilDi, QoilCa y QoilUt).
-      - Finalmente, el quinto grupo donde se encuentran los botones de procesos directos, para abrir la Tabla de Atributos y eliminar la(s) capas seleccionadas (QoilTa y QoilEl).
-
+   
+   Los botones en la barra de herramienta están agrupados en cinco grupos:
+   - El primero contiene los procesos de creación de información vectorial primaria (QoilCn, QoilCo y QoilCp).
+   - El segundo grupo está orientado a caracterización geológica, creación de yacimientos y su definición, así como análisis estructural (QoilDg, QoilYo, QoilDa y QoilDe).
+   - El tercer grupo asociado a cálculo de área y volumen con algunas herramientas para transferir información (QoilTf, QoilAr y QoilVo).
+   - Un cuarto grupo contentivo de procesos para agregar y transformar información (QoilUn, QoilDi, QoilCa y QoilUt).
+   - Finalmente, el quinto grupo donde se encuentran los botones de procesos directos, para abrir la Tabla de Atributos y eliminar la(s) capas seleccionadas (QoilTa y QoilEl).
+   
   - ## Barra de herramienta del panel de capas
     
 
