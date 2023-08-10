@@ -29,6 +29,11 @@ Generalidades del complemento QoilTools
    Instalación  
    ===========  
    El complemento solo está disponible para ser instalado a través de un archivo ZIP en “Administrar e instalar complementos”.  
-   ![Ventana de instalación de complementos de QGIS](Ge_1.png)
+
+   <p align="center">
+<img src="img_g/Ge_1.png"  width="800" alt="Ventana de instalación de complementos de QGIS">
+</p>  
+
+
    
    
