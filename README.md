@@ -165,5 +165,16 @@ Procedimiento para agregarla:
 
      
 <p align="center">
-<img src="img/Ge_25.png"  width="600" alt="Menú QoilTools enla barra de menú de QGIS">  
+<img src="img/Ge_25.png"  width="500" alt="Menú QoilTools enla barra de menú de QGIS">  
 </p>  
+
+   - ## Barra de Herramientas
+     Se denomina ***QoilTools*** y abre todas las ventanas y ejecuta los dos procesos directos de abrir la Tabla de Atributros y eliminar la(s) capas seleccionadas.
+
+<p align="center">
+<img src="img/Ge_26.png"  width="600" alt="Barra de Herramienta QoilTools">  
+</p>  
+
+
+
+     
