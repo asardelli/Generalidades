@@ -21,6 +21,8 @@ Generalidades del complemento QoilTools
 <img src="img_g/Ge_1.png"  width="800" alt="Ventana de instalación de complementos de QGIS">
 </p>  
 
-
+- Se selecciona Instalar a partir de ZIP.
+- Se busca la carpeta comprimida QoilTools.zip.
+- 
    
    
