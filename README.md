@@ -67,9 +67,73 @@ Procedimiento para agregarla:
 
 - Al hacer clic, se agrega una nueva variable a la que se le asigna el nombre ***user_country*** y como valor ***Venezuela***.
 
-**¡Listo! La variable a sigo agregada.**  
+**¡Listo! La variable a sido agregada.**  
 
 <p align="center">
 <img src="img_g/Ge_8.png"  width="600" alt="Ventana de Opciones-Variables de QGIS con la variable user_country agregada">  
 </p>  
 
+   Procesos  
+   ========  
+   El complemento cuenta con 55 procesos distribuidos en 16 botones:  
+
+•	Crear capa nueva (QoilCn)  
+•	Transformar puntos a líneas (QoilCo)  
+•	Transformar líneas a polígono (QoilCo)  
+•	Transformar polígonos a líneas (QoilCo)  
+•	Transformar líneas a puntos (QoilCo)  
+•	Cargar pozos por lotes (QoilCp)  
+•	Cargar un pozo (QoilCp)  
+•	Definir parámetros geológicos (QoilDg)  
+•	Crear Yacimiento (QoilYo)  
+•	Buscar pozos por yacimientos (QoilYo)  
+•	Definir acumulación (QoilDa)  
+•	Cálculo de Datos Estructurales (QoilDe)  
+•	Calculo de azimut (QoilDe)  
+•	Plano de referencia de yacimientos (QoilDe)  
+•	Espacio cero (QoilDe)  
+•	Transferir Valores Máx/Mín (QoilTf)  
+•	Transferir Datos (QoilTf)  
+•	Inspector de Rangos (QoilTf)  
+•	Ajuste de Valle y Cima (QoilTf)  
+•	Calcular área (QoilAr)  
+•	Cálculo de Espesor Promedio (QoilVo)  
+•	Cálculo de volumen (QoilVo)  
+•	Transferir valor (QoilVo)  
+•	Tabla Resumen (QoilVo)  
+•	Unir Capas (QoilUn)  
+•	Agregar objetos a capa (QoilUn)  
+•	Dividir capa (QoilDi)  
+•	Copiar Atributo de una capa a otra (QoilCa)  
+•	Cálculo Dinámico (QoilUt)  
+•	Campo Nuevo (QoilUt)  
+•	Transformar Partes (QoilUt)  
+•	Cambiar el Nombre a la Capa (QoilUt)  
+•	Constante (QoilUt)  
+•	Constante Numérica (QoilUt)  
+•	Incremental (QoilUt)  
+•	Constante con Incremental (QoilUt)  
+•	Fecha Actual (yyyy/MM/dd) (QoilUt)  
+•	Hora (HH/mm/ss) (QoilUt)  
+•	Fecha y Hora Actual (QoilUt)  
+•	Fecha Específica (yyyy/MM/dd) (QoilUt)  
+•	Operación entre un Campo A y un Campo B (QoilUt)  
+•	Operación entre un Campo A y una constante numérica (QoilUt)  
+•	Borra atributos de un campo (QoilUt)  
+•	Agregar un Punto por Coordenadas (QoilUt)  
+•	Agregar Puntos, una Línea o un Polígono por coordenadas (QoilUt)  
+•	Corregir geometrías (QoilUt)  
+•	Agregar Alias a los campos de atributos (QoilUt)  
+•	Quitar Alias (QoilUt)  
+•	Asignar Alias (Sobrenombre) individual (QoilUt)  
+•	Quitar Alias (Sobrenombre) individual (QoilUt)  
+•	Mostrar la ubicación de la capa (QoilUt)  
+•	Evaluar las geometrías (QoilUt)  
+•	Evaluar campos (QoilUt)  
+•	Mostrar Tabla de Atributos (QoilTa)  
+•	Eliminar capa(s) seleccionadas (QoilEl)  
+
+   Botones
+   =======  
+
+   
