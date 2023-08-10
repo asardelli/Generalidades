@@ -139,8 +139,13 @@ Procedimiento para agregarla:
 
 
 | Nombre | Símbolo Botón | Ventana/Directo | Pestañas | N° Procesos |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | QoilUn | <img src="img_g/Ge_9.png"  width="50" alt="QoilUn">  | Ventana | 1 | 1 |
 | QoilCo | <img src="img_g/Ge_10.png"  width="50" alt="QoilCo"> | Ventana | 2 | 4 |
+| QoilCp | <img src="img_g/Ge_11.png"  width="50" alt="QoilCp"> | Ventana | 2 | 2 |
+| QoilDg | <img src="img_g/Ge_12.png"  width="50" alt="QoilDg"> | Ventana | 1 | 1 |
+| QoilYo | <img src="img_g/Ge_13.png"  width="50" alt="QoilYo"> | Ventana | 2 | 2 |
+| QoilDa | <img src="img_g/Ge_14.png"  width="50" alt="QoilDa"> | Ventana | 1 | 1 |
+| QoilDe | <img src="img_g/Ge_15.png"  width="50" alt="QoilDe"> | Ventana | 3 | 3 |
 
    
