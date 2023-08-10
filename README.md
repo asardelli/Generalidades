@@ -1,18 +1,5 @@
 # Generalidades
 Generalidades del complemento QoilTools  
-1. Sobre el complemento.
-3. Lenguaje.
-4. Desarrollador.
-5. Instalación.
-6. Variables.
-7. Procesos.
-8. Botones.
-9. Accesibilidad.
-10. Tips.
-11. Proceso intuitivo.
-12. Errores.
-13. Manuales.	
-
 
    Sobre el Complemento  
    =====================  
