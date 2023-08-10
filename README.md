@@ -183,6 +183,12 @@ Procedimiento para agregarla:
    - Finalmente, el quinto grupo donde se encuentran los botones de procesos directos, para abrir la Tabla de Atributos y eliminar la(s) capas seleccionadas (QoilTa y QoilEl).
    
   - ## Barra de herramienta del panel de capas
-    
+    En esta barra ubicada en la parte superior del panel de capas se pueden encontrar los botones que ejecutan procesos directos como Abrir Tabla de Atributo (QoilTa) y Elimina la(s) capas seleccionadas (QoilEl).
+
+<p align="center">
+<img src="img/Ge_27.png"  width="300" alt="Barra de Herramienta del panel de capas">  
+</p>  
+
+
 
      
