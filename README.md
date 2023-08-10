@@ -196,4 +196,12 @@ Procedimiento para agregarla:
 <img src="img/Ge_28.png"  width="600" alt="Barra de Herramienta de la capa">  
 </p>  
 
-     
+   Tips
+   ====
+   Cada ventana cuenta con tips que indican el uso o concepto necesario para entender la variable. Son mostrados al posar el puntero sobre cualquier elemento de la ventana.  
+
+A continuación, los enlaces si desea conocer los tips para cada ventana, recuerde que la posición de la etiqueta de los tips no siempre son las mostrada en las imágenes.
+
+[Ventana QoilCn](img/Ge_29.png)  
+
+
