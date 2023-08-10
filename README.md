@@ -135,5 +135,12 @@ Procedimiento para agregarla:
 
    Botones
    =======  
+   QoilTools cuenta con 16 botones de los cuales 14 abren una ventana y 2 ejecutan un proceso directo.  
+
+
+| Nombre | Símbolo Botón | Ventana/Directo | Pestañas | N° Procesos |
+| --- | --- | --- | --- | --- |
+| QoilUn | <img src="img_g/Ge_9.png"  width="50" alt="QoilUn">  | Ventana | 1 | 1 |
+| QoilCo | <img src="img_g/Ge_10.png"  width="50" alt="QoilCo"> | Ventana | 2 | 4 |
 
    
