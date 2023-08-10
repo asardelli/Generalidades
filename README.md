@@ -157,4 +157,13 @@ Procedimiento para agregarla:
 | QoilTa | <img src="img/Ge_23.png"  width="50" alt="QoilTa"> | Directo | 1 | 1 |
 | QoilEl | <img src="img/Ge_24.png"  width="50" alt="QoilCa"> | Directo | 1 | 1 |
 
-   
+   Accesibilidad  
+   =============  
+   El acceso desde el sistema se puede hacer a través de la barra de menu, una Barra de herramienta, Barra de menú en la parte superior de panel de capas y un sub-menu en el menú de la capa (botón derecho del mouse).
+   - ## Menú
+     Todas las ventanas de QoilTools pueden accederse a través de menú ***QoilTools*** en la barra de menu de QGIS. adicioanlmente es donde se encuentran los manuales de uso del complemento.
+
+     
+<p align="center">
+<img src="img/Ge_25.png"  width="600" alt="Menú QoilTools enla barra de menú de QGIS">  
+</p>  
