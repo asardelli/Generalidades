@@ -189,6 +189,11 @@ Procedimiento para agregarla:
 <img src="img/Ge_27.png"  width="300" alt="Barra de Herramienta del panel de capas">  
 </p>  
 
+   - ## Sub-menú en el menú de la capa
+     Este menu se encuentra al al hacer clic con el botón derecho del mouse y se encuentran los tres procesos de uso frecuente para las capas vectoriales: Crear capa vector a partir de otra (QoilCo), Definir parámetros geológicos (QoilDg) y Herramientas adicionales (QoilUt), dentro de un menu llamado ***QoilTools***.
 
+<p align="center">
+<img src="img/Ge_28.png"  width="600" alt="Barra de Herramienta de la capa">  
+</p>  
 
      
