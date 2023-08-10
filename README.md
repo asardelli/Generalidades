@@ -18,26 +18,26 @@ Generalidades del complemento QoilTools
    El complemento solo está disponible para ser instalado a través de un archivo ZIP en “Administrar e instalar complementos”.  
 
    <p align="center">
-<img src="img_g/Ge_1.png"  width="800" alt="Ventana de instalación de complementos de QGIS">
+<img src="img/Ge_1.png"  width="800" alt="Ventana de instalación de complementos de QGIS">
 </p>  
 
 - Se selecciona Instalar a partir de ZIP.
 - Se busca la carpeta comprimida QoilTools.zip.
 
 <p align="center">
-<img src="img_g/Ge_2.png"  width="800" alt="Ventana explorador para ubicar el archivo">  
+<img src="img/Ge_2.png"  width="800" alt="Ventana explorador para ubicar el archivo">  
 </p>
 
 - Seleccionado el archivo instalador se activa el botón “Instalar complemento”
 
 <p align="center">
-<img src="img_g/Ge_3.png"  width="800" alt="Ventana de instalación de complementos de QGIS con el archivo seleccionado">  
+<img src="img/Ge_3.png"  width="800" alt="Ventana de instalación de complementos de QGIS con el archivo seleccionado">  
 </p>  
 
 - Se hace clic y aparece un mensaje *La instalación de un complemento de una fuente no confiable puede dañar su computadora. Continúe solo si recibió el complemento de una fuente confiable. ¿Continuar?.*
 
 <p align="center">
-<img src="img_g/Ge_4.png"  width="400" alt="Mensaje de confiabilidad del archivo">  
+<img src="img/Ge_4.png"  width="400" alt="Mensaje de confiabilidad del archivo">  
 </p>  
 
 - Clic sobre el botón *Si*.
@@ -49,20 +49,20 @@ Generalidades del complemento QoilTools
   Para mejorar la experiencia con la interfaz se debe definir una variable Global ***user_country*** al momento de la instalación.  
 
 <p align="center">
-<img src="img_g/Ge_5.png"  width="600" alt="Ventana propiedades del proyecto QGIS">  
+<img src="img/Ge_5.png"  width="600" alt="Ventana propiedades del proyecto QGIS">  
 </p>  
 
 Procedimiento para agregarla:
 - En el menú Configuración, Opciones se hace clic y aparece la ventana de opciones.
 
 <p align="center">
-<img src="img_g/Ge_6.png"  width="600" alt="Ventana de Opciones-Variables de QGIS">  
+<img src="img/Ge_6.png"  width="600" alt="Ventana de Opciones-Variables de QGIS">  
 </p>  
 
 - Se hace clic en el símbolo más (+) en color verde ubicado en la parte inferior derecha.
 
 <p align="center">
-<img src="img_g/Ge_7.png"  width="600" alt="Ventana de Opciones-Variables de QGIS al agregar la nueva variable">  
+<img src="img/Ge_7.png"  width="600" alt="Ventana de Opciones-Variables de QGIS al agregar la nueva variable">  
 </p>  
 
 - Al hacer clic, se agrega una nueva variable a la que se le asigna el nombre ***user_country*** y como valor ***Venezuela***.
@@ -70,7 +70,7 @@ Procedimiento para agregarla:
 **¡Listo! La variable a sido agregada.**  
 
 <p align="center">
-<img src="img_g/Ge_8.png"  width="600" alt="Ventana de Opciones-Variables de QGIS con la variable user_country agregada">  
+<img src="img/Ge_8.png"  width="600" alt="Ventana de Opciones-Variables de QGIS con la variable user_country agregada">  
 </p>  
 
    Procesos  
@@ -140,21 +140,21 @@ Procedimiento para agregarla:
 
 | Nombre | Símbolo Botón | Ventana/Directo | Pestañas | N° Procesos |
 | :---: | :---: | :---: | :---: | :---: |
-| QoilUn | <img src="img_g/Ge_9.png"  width="50" alt="QoilUn">  | Ventana | 1 | 1 |
-| QoilCo | <img src="img_g/Ge_10.png"  width="50" alt="QoilCo"> | Ventana | 2 | 4 |
-| QoilCp | <img src="img_g/Ge_11.png"  width="50" alt="QoilCp"> | Ventana | 2 | 2 |
-| QoilDg | <img src="img_g/Ge_12.png"  width="50" alt="QoilDg"> | Ventana | 1 | 1 |
-| QoilYo | <img src="img_g/Ge_13.png"  width="50" alt="QoilYo"> | Ventana | 2 | 2 |
-| QoilDa | <img src="img_g/Ge_14.png"  width="50" alt="QoilDa"> | Ventana | 1 | 1 |
-| QoilDe | <img src="img_g/Ge_15.png"  width="50" alt="QoilDe"> | Ventana | 3 | 3 |
-| QoilTf | <img src="img_g/Ge_16.png"  width="50" alt="QoilTf"> | Ventana | 3 | 4 |
-| QoilAr | <img src="img_g/Ge_17.png"  width="50" alt="QoilAr"> | Ventana | 1 | 1 |
-| QoilVo | <img src="img_g/Ge_18.png"  width="50" alt="QoilVo"> | Ventana | 4 | 4 |
-| QoilUn | <img src="img_g/Ge_19.png"  width="50" alt="QoilUn"> | Ventana | 2 | 2 |
-| QoilDi | <img src="img_g/Ge_20.png"  width="50" alt="QoilDi"> | Ventana | 1 | 1 |
-| QoilCa | <img src="img_g/Ge_21.png"  width="50" alt="QoilCa"> | Ventana | 1 | 1 |
-| QoilUt | <img src="img_g/Ge_22.png"  width="50" alt="QoilUt"> | Ventana | 5 | 25 |
-| QoilTa | <img src="img_g/Ge_23.png"  width="50" alt="QoilTa"> | Directo | 1 | 1 |
-| QoilEl | <img src="img_g/Ge_24.png"  width="50" alt="QoilCa"> | Directo | 1 | 1 |
+| QoilUn | <img src="img/Ge_9.png"  width="50" alt="QoilUn">  | Ventana | 1 | 1 |
+| QoilCo | <img src="img/Ge_10.png"  width="50" alt="QoilCo"> | Ventana | 2 | 4 |
+| QoilCp | <img src="img/Ge_11.png"  width="50" alt="QoilCp"> | Ventana | 2 | 2 |
+| QoilDg | <img src="img/Ge_12.png"  width="50" alt="QoilDg"> | Ventana | 1 | 1 |
+| QoilYo | <img src="img/Ge_13.png"  width="50" alt="QoilYo"> | Ventana | 2 | 2 |
+| QoilDa | <img src="img/Ge_14.png"  width="50" alt="QoilDa"> | Ventana | 1 | 1 |
+| QoilDe | <img src="img/Ge_15.png"  width="50" alt="QoilDe"> | Ventana | 3 | 3 |
+| QoilTf | <img src="img/Ge_16.png"  width="50" alt="QoilTf"> | Ventana | 3 | 4 |
+| QoilAr | <img src="img/Ge_17.png"  width="50" alt="QoilAr"> | Ventana | 1 | 1 |
+| QoilVo | <img src="img/Ge_18.png"  width="50" alt="QoilVo"> | Ventana | 4 | 4 |
+| QoilUn | <img src="img/Ge_19.png"  width="50" alt="QoilUn"> | Ventana | 2 | 2 |
+| QoilDi | <img src="img/Ge_20.png"  width="50" alt="QoilDi"> | Ventana | 1 | 1 |
+| QoilCa | <img src="img/Ge_21.png"  width="50" alt="QoilCa"> | Ventana | 1 | 1 |
+| QoilUt | <img src="img/Ge_22.png"  width="50" alt="QoilUt"> | Ventana | 5 | 25 |
+| QoilTa | <img src="img/Ge_23.png"  width="50" alt="QoilTa"> | Directo | 1 | 1 |
+| QoilEl | <img src="img/Ge_24.png"  width="50" alt="QoilCa"> | Directo | 1 | 1 |
 
    
