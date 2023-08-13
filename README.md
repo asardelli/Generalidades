@@ -232,5 +232,464 @@ A continuación, los enlaces si desea conocer los tips para cada ventana, recuer
 [Ventana QoilUt Pestaña 4](img/Ge_56.png)  
 [Ventana QoilUt Pestaña 5](img/Ge_57.png)  
 
+	Proceso Intuitivos  
+	==================  
+	Las ventanas del complemento QoilTools cuentan con un sistema intuitivo para ayudar al usuario a definir los parámetros requeridos de manera correcta. Los cuales se describen a continuación:  
+	
+	- ## Activación de Check  
+	Los Check se activarán cuando sea seleccionado el parámetro que lo define, tales como: escribir el nombre de un campo, seleccionar el tipo de campo, seleccionar una capa, seleccionar el tipo de archivo, o abrir el explorador para guardar un archivo.  
+	De la misma manera se deseleccionará cuando la asignación o selección de algún parámetro vuelve a su estado inicial.  
+	
+	- ## Sugerencias  
+	En los parámetros de nombre de capa o nombre de archivo el sistema sugerirá uno según el nombre o tipo de la capa de entrada.
+	
+	- ## Sistema de semáforo  
+	Dependiendo de la selección de los parámetros, el sistema indicará a taves de colores en el botón de ejecución o la etiqueta asociada al parámetro.
+	Estos elementos cambiarán entre los colores ***Amarillo***, ***Rojo*** y ***Verde***.  
+	El color amarillo indica que los parámetros no han sido completados.  
+	
+<p align="center">
+<img src="img/Ge_58.png"  width="100" alt="Ejemplo de un botón de ejecuación color amarillo">  
+</p> 
+	
+	El color Rojo indica que un parametros es incorrecto, no válido o incompleto por lo que el proceso no podra ejecutarse.  
+	
+<p align="center">
+<img src="img/Ge_59.png"  width="100" alt="Ejemplo de un botón de ejecuación color rojo">  
+</p> 
+	
+	Cuando las etiquetas y/o el botón de ejecutar cambia su color a verde, indica que el parámetro es correcto, que todos los requerimeintos fueron cumplidos y el proceso se ejecutara correctamente.  
+	
+<p align="center">
+<img src="img/Ge_60.png"  width="100" alt="Ejemplo de un botón de ejecuación color verde">  
+</p> 
+	
+	Mensajes de Alertas y errores  
+	=============================  
+	QoilTools cuenta con un conjunto de mensajes clasificado de acuerdo a su origen en: Critico, Precaución, Informativo y Confirmación. A continuación, se presentan cada uno de ellos indicando la(s) ventana donde se podrían mostrar:  
+	
+	- ### Mensajes Acción Critica  
+	
+<p align="center">
+<img src="img/Ge_61.png"  width="400" alt="Ventana emergente El nombre de la capa no debe contener caracteres especiales">  
+</p> 
 
+Ventanas QoilCn, QoilCo, QoilCp, QoilYo.  
+
+<p align="center">
+<img src="img/Ge_62.png"  width="400" alt="Ventana emergente El nombre de los campos no debe contener caracteres especiales">  
+</p> 
+
+Ventanas QoilCn, QoilCa, QoilUt.  
+
+<p align="center">
+<img src="img/Ge_63.png"  width="300" alt="Ventana emergente No admite caracteres especiales">  
+</p> 
+
+Ventanas QoilCn, QoilCo,QoilDg, QoilYo, QoilTf, QoilUn, QoilDi, QoilCa, QoilUt.  
+
+<p align="center">
+<img src="img/Ge_64.png"  width="420" alt="Ventana emergente No se puede leer el archivo Datos Generales">  
+</p> 
+
+Ventana QoilCp. 
+
+<p align="center">
+<img src="img/Ge_65.png"  width="420" alt="Ventana emergente No se puede leer el archivo Survey">  
+</p> 
+
+Ventana QoilCp. 
+
+<p align="center">
+<img src="img/Ge_66.png"  width="420" alt="Ventana emergente El Proceso no puede ejecutarse">  
+</p> 
+
+Ventana QoilCp. 
+
+<p align="center">
+<img src="img/Ge_67.png"  width=300" alt="Ventana emergente Alguna de las capa no es válida">  
+</p> 
+
+Ventana QoilYo. 
+
+<p align="center">
+<img src="img/Ge_68.png"  width=250" alt="Ventana emergente Capa de Entrada no válida">  
+</p> 
+
+Ventanas QoilYo, QoilDe, QoilAr, QoilVo, QoilUn, QoilDi, QoilCa. 
+
+<p align="center">
+<img src="img/Ge_69.png"  width=450" alt="Ventana emergente El nombre de la Horizonte/Arena no debe contener caracteres especiales">  
+</p> 
+
+Ventana QoilDa. 
+
+<p align="center">
+<img src="img/Ge_70.png"  width=450" alt="Ventana emergente El prefijo del pozo no debe contener caracteres especiales">  
+</p> 
+
+Ventana QoilDa. 
+
+<p align="center">
+<img src="img/Ge_71.png"  width=450" alt="Ventana emergente El correlativo del pozo no debe contener caracteres especiales">  
+</p> 
+
+Ventana QoilDa. 
+
+<p align="center">
+<img src="img/Ge_72.png"  width=300" alt="Ventana emergente Capa no válida">  
+</p> 
+
+Ventanas QoilDa, QoilDa, QoilTf, QoilUt. 
+
+<p align="center">
+<img src="img/Ge_73.png"  width=400" alt="Ventana emergente La capa no posee valores de área ni de volumen">  
+</p> 
+
+Ventana QoilVo.  
+
+<p align="center">
+<img src="img/Ge_74.png"  width=300" alt="Ventana emergente La capa no posee valores de volumen">  
+</p> 
+
+Ventana QoilVo.  
+
+<p align="center">
+<img src="img/Ge_75.png"  width=300" alt="Ventana emergente La capa no posee valores de área">  
+</p> 
+
+Ventana QoilVo.  
+
+<p align="center">
+<img src="img/Ge_76.png"  width=400" alt="Ventana emergente No existen los campos OILFIELD_NAME, AREA y VOLUME">  
+</p> 
+
+Ventana QoilVo.  
+
+<p align="center">
+<img src="img/Ge_77.png"  width=300" alt="Ventana emergente Existen una capa a unir No válida">  
+</p> 
+
+Ventana QoilUn.  
+
+<p align="center">
+<img src="img/Ge_78.png"  width=300" alt="Ventana emergente Existen una capa a copiar No válida">  
+</p> 
+
+Ventana QoilCa.  
+
+<p align="center">
+<img src="img/Ge_79.png"  width=300" alt="Ventana emergente Constante numérica No válida">  
+</p> 
+
+Ventana QoilUt.  
+
+<p align="center">
+<img src="img/Ge_80.png"  width=400" alt="Ventana emergente La Capa no permite transformación">  
+</p> 
+
+Ventana QoilUt. 
+
+<p align="center">
+<img src="img/Ge_117.png"  width=450" alt="Ventana emergente La Capa no es un polígono, Cierra la ventana principal, seleccioan la capa correcta e inicia el proceso nuevamente">  
+</p> 
+
+Ventana QoilUt. 
+
+	- ### Mensajes de Precaución  
+
+<p align="center">
+<img src="img/Ge_81.png"  width="300" alt="Ventana emergente Seleccione el tipo de geometría">  
+</p> 
+
+Ventanas QoilCn, QoilUn.  
+
+<p align="center">
+<img src="img/Ge_82.png"  width="300" alt="Ventana emergente Completar los parámetros">  
+</p> 
+
+Ventanas QoilCn, QoilCo, QoilCp, QoilDg, QoilYo, QoilDa.  
+
+<p align="center">
+<img src="img/Ge_83.png"  width="300" alt="Ventana emergente Debe asignar un nombre a la nueva Capa">  
+</p> 
+
+Ventana QoilYo.  
+
+<p align="center">
+<img src="img/Ge_84.png"  width="450" alt="Ventana emergente Se ha desactivado el check a una capa Cierre, por favor active nuevamente o deseleccione la capa para continuar">  
+</p> 
+
+Ventana QoilYo.  
+
+<p align="center">
+<img src="img/Ge_85.png"  width="400" alt="Ventana emergente El nombre de la capa no debe tener caracteres especiales">  
+</p> 
+
+Ventana QoilYo.  
+
+<p align="center">
+<img src="img/Ge_86.png"  width="350" alt="Ventana emergente Seleccione las capas que definirán el yacimiento">  
+</p> 
+
+Ventana QoilYo.  
+
+<p align="center">
+<img src="img/Ge_87.png"  width="450" alt="Ventana emergente La capa contiene elementos no estructurales, el proceso no se podrá ejecutar">  
+</p> 
+
+Ventana QoilDe.  
+
+<p align="center">
+<img src="img/Ge_88.png"  width="350" alt="Ventana emergente No hya elementos seleccionados, desactive la opción Solo Seleccionados">  
+</p> 
+
+Ventana QoilDe.  
+
+<p align="center">
+<img src="img/Ge_89.png"  width="350" alt="Ventana emergente La profundidad de referencia no es numérica">  
+</p> 
+
+Ventana QoilDe.  
+
+<p align="center">
+<img src="img/Ge_90.png"  width="350" alt="Ventana emergente El campo de atributo INSPECCION no existe">  
+</p> 
+
+Ventana QoilTf.  
+
+<p align="center">
+<img src="img/Ge_90.png"  width="350" alt="Ventana emergente El campo de atributo INSPECCION no existe">  
+</p> 
+
+Ventana QoilTf.  
+
+<p align="center">
+<img src="img/Ge_91.png"  width="450" alt="Ventana emergente Se ha desactivado el check a una capa a unir, por favor active nuevamente o deseleccione la capa para continuar">  
+</p> 
+
+Ventana QoilUn.  
+
+<p align="center">
+<img src="img/Ge_92.png"  width="450" alt="Ventana emergente Se ha desactivado el check a una capa guía, por favor active nuevamente o deseleccione la capa para continuar">  
+</p> 
+
+Ventana QoilDi.  
+
+<p align="center">
+<img src="img/Ge_93.png"  width="250" alt="Ventana emergente Coordenadas No Válidas, Introduzca correctamente los valores">  
+</p> 
+
+Ventana QoilUt.  
+
+<p align="center">
+<img src="img/Ge_94.png"  width="300" alt="Ventana emergente La geometrías de la capa son válidas">  
+</p> 
+
+Ventana QoilUt.  
+
+<p align="center">
+<img src="img/Ge_95.png"  width="300" alt="Ventana emergente El campo no tiene un alia asociado">  
+</p> 
+
+Ventana QoilUt.  
+
+<p align="center">
+<img src="img/Ge_96.png"  width="400" alt="Ventana emergente No hay objetos seleccionados, desactiva Solo Seleccionados">  
+</p> 
+
+Ventana QoilUt.  
+
+<p align="center">
+<img src="img/Ge_97.png"  width="420" alt="Ventana emergente IMPORTANTE. Una vez ejecutado el proceso , la acción no se podra revertir. Este atento">  
+</p> 
+
+Ventana QoilUt.  
+
+	- ## Mensajes de Información
+
+<p align="center">
+<img src="img/Ge_98.png"  width="200" alt="Ventana emergente El TVDSS es mayor al del pozo">  
+</p> 
+
+Ventana QoilCp.  
+
+<p align="center">
+<img src="img/Ge_99.png"  width="400" alt="Ventana emergente Los Sisitemas de Referecias de las capas Elementos son distintos. Se recomienda revisar los resultados">  
+</p> 
+
+Ventana QoilYo.  
+
+<p align="center">
+<img src="img/Ge_100.png"  width="300" alt="Ventana emergente La capa no contiene un campo Arena, no se pude conocer su nombre">  
+</p> 
+
+Ventana QoilDa.  
+
+<p align="center">
+<img src="img/Ge_101.png"  width="250" alt="Ventana emergente La capa An R3 es de tipo línea, Este proceso no admite como entrada este tipo de capa">  
+</p> 
+
+Ventanas QoilTf, QoilAr, QoilVo, QoilDi.  
+
+<p align="center">
+<img src="img/Ge_102.png"  width="200" alt="Ventana emergente No hay objetos a ajustar">  
+</p> 
+
+Ventana QoilTf.  
+
+<p align="center">
+<img src="img/Ge_103.png"  width="300" alt="Ventana emergente La capa activa no tiene le campo ID_YAC, Seleccioane una nueva capa">  
+</p> 
+
+Ventana QoilVo.  
+
+<p align="center">
+<img src="img/Ge_104.png"  width="350" alt="Ventana emergente La capa no tiene Yacimientos con Capa de Gas, Seleccioane una nueva capa">  
+</p> 
+
+Ventana QoilVo.  
+
+<p align="center">
+<img src="img/Ge_105.png"  width="320" alt="Ventana emergente La capa no identifica el tipo de yacimiento, Seleccioane una nueva capa">  
+</p> 
+
+Ventana QoilVo.  
+
+<p align="center">
+<img src="img/Ge_106.png"  width="450" alt="Ventana emergente Los datos de Area y Volumen deben corresponder a objeto parte en la capa y ser correctos, Para usarlos marque el los items Área y Volumen">  
+</p> 
+
+Ventana QoilVo.  
+
+<p align="center">
+<img src="img/Ge_107.png"  width="450" alt="Ventana emergente La capa no tiene los campos de atributos: NOMBRE y VOLUMEN">  
+</p> 
+
+Ventana QoilVo.  
+
+<p align="center">
+<img src="img/Ge_108.png"  width="350" alt="Ventana emergente La capa no tiene el campo de atributo: VOLUMEN">  
+</p> 
+
+Ventana QoilVo.  
+
+<p align="center">
+<img src="img/Ge_109.png"  width="350" alt="Ventana emergente La capa no tiene el campo de atributo: ÁREA">  
+</p> 
+
+Ventana QoilVo.  
+
+<p align="center">
+<img src="img/Ge_110.png"  width="450" alt="Ventana emergente Los sistemas de referencias de las capas a unir son distintos. Se recomienda revisar que todos los objetos espaciales esten ubicados correctamente en la capa a unida">  
+</p> 
+
+Ventana QoilUn.  
+
+<p align="center">
+<img src="img/Ge_111.png"  width="450" alt="Ventana emergente Los sistemas de referencias de las capas a unir son distintos al de la capa unida. Se recomienda revisar que todos los objetos espaciales esten ubicados correctamente en la capa a unida">  
+</p> 
+
+Ventana QoilUn.  
+
+<p align="center">
+<img src="img/Ge_112.png"  width="450" alt="Ventana emergente La capa no se dividio. Te sugiero...">  
+</p> 
+
+Ventana QoilDi.  
+
+<p align="center">
+<img src="img/Ge_113.png"  width="450" alt="Ventana emergente Los CRS de las capas a copiar son distintos al de la capa de entrada. Revisa que el atributo se haya copiado correctamente">  
+</p> 
+
+Ventana QoilCa.  
+
+<p align="center">
+<img src="img/Ge_114.png"  width="420" alt="Ventana emergente Los CRS de las capas a copiar son distintos entre ellos. Revisa que el atributo se haya copiado correctamente">  
+</p> 
+
+Ventana QoilCa.  
+
+<p align="center">
+<img src="img/Ge_115.png"  width="420" alt="Ventana emergente ATENCION La capa esta vacía, no tiene objetos espaciales">  
+</p> 
+
+Ventana QoilUt.  
+
+	- ## Mensajes de Confirmación
+
+<p align="center">
+<img src="img/Ge_116.png"  width="200" alt="Ventana emergente ATENCION La capa CAMPOS COV , no tiene geometrías válidas">  
+</p> 
+
+Ventana QoilYo.  
+
+<p align="center">
+<img src="img/Ge_118.png"  width="400" alt="Ventana emergente ATENCION Se marco la opción para crear un campo nuevo, pero el campo existe, haz clic en">  
+</p> 
+
+Ventanas QoilAr,QoilVo.  
+
+<p align="center">
+<img src="img/Ge_119.png"  width="400" alt="Ventana emergente ATENCION Se marco la opción para crear un campo nuevo, pero el campo VOLUMEN existe, haz clic en">  
+</p> 
+
+Ventana QoilVo.  
+
+<p align="center">
+<img src="img/Ge_120.png"  width="400" alt="Ventana emergente ATENCION Los CRS de las capas guías son distintos. Haz clic en Aceptar para continuar o Cancelar para salir">  
+</p> 
+
+Ventana QoilDi.  
+
+<p align="center">
+<img src="img/Ge_121.png"  width="400" alt="Ventana emergente ATENCION Los CRS de las capas guías son distintos al del proyecto. Haz clic en Aceptar para continuar o Cancelar para salir">  
+</p> 
+
+Ventana QoilDi.  
+
+<p align="center">
+<img src="img/Ge_122.png"  width="400" alt="Ventana emergente ATENCION Para mantener la interoperabilidad de la información generada, se sugiere cambiar CAMPO por FIELD>  
+</p> 
+
+Ventana QoilUt.  
+
+<p align="center">
+<img src="img/Ge_123.png"  width="300" alt="Ventana emergente ATENCION El campo FIELD se creo con éxito>  
+</p> 
+
+Ventana QoilUt.  
+
+<p align="center">
+<img src="img/Ge_124.png"  width="300" alt="Ventana emergente ATENCION La operación se ejecutó con éxito>  
+</p> 
+
+Ventana QoilUt.  
+
+	- ## Otros  
+	ATENCIÓN. No se puede ejecutar.\nRevisa la selección de los parámetros.  
+	Ventana QoilVo  
+	ATENCIÓN. Capa Buscar No Valida.  
+	Ventana QoilYo  
+	ATENCIÓN. Revise los parámetros.  
+	Ventana QoilAr  
+	ATENCIÓN. La capa Transferir no es válida.  
+	ATENCIÓN. No se puede ejecutar.\nRevise los parámetros Max y Min o no existe un Campo de atributo ID.  
+	ATENCIÓN. No hay objetos espaciales seleccionados.\nPresione el botón "Mostrar".  
+	Ventana QoilTf  
+	ATENCIÓN. No se pudo generar el archivo.  
+	ATENCIÓN. Capa de referencia No Válida.  
+	ATENCIÓN. Capa intersección No Válida.  
+	Ventana QoilDe  
+	
+	Manuales
+	========
+	Se prepararon 6 manuales de uso, segmentados para mejorar la experiencia con el usuario.
+	
+	[1.	Generalidades del complemento]()
+	[2.	Manual QoilCn QoilCo QoilCp]()
+	[3.	Manual QoilDg QoilYo QoilDa QoilDe]()
+	[4.	Manual QoilTf QoilAr QoilVo]()
+	[5.	Manual QoilUn QoilDi QoilCa]()
+	[6.	Manual QoilUt]()
 
