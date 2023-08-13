@@ -232,11 +232,11 @@ A continuación, los enlaces si desea conocer los tips para cada ventana, recuer
 [Ventana QoilUt Pestaña 4](img/Ge_56.png)  
 [Ventana QoilUt Pestaña 5](img/Ge_57.png)  
 
-	Proceso Intuitivos  
-	==================  
-	Las ventanas del complemento QoilTools cuentan con un sistema intuitivo para ayudar al usuario a definir los parámetros requeridos de manera correcta. Los cuales se describen a continuación:  
-	
-	- ## Activación de Check  
+   Proceso Intuitivos  
+   ==================
+   Las ventanas del complemento QoilTools cuentan con un sistema intuitivo para ayudar al usuario a definir los parámetros requeridos de manera correcta. Los cuales se describen a continuación:  
+
+   - ## Activación de Check  
 	Los Check se activarán cuando sea seleccionado el parámetro que lo define, tales como: escribir el nombre de un campo, seleccionar el tipo de campo, seleccionar una capa, seleccionar el tipo de archivo, o abrir el explorador para guardar un archivo.  
 	De la misma manera se deseleccionará cuando la asignación o selección de algún parámetro vuelve a su estado inicial.  
 	
