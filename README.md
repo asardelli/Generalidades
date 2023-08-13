@@ -237,29 +237,28 @@ A continuación, los enlaces si desea conocer los tips para cada ventana, recuer
    Las ventanas del complemento QoilTools cuentan con un sistema intuitivo para ayudar al usuario a definir los parámetros requeridos de manera correcta. Los cuales se describen a continuación:  
 
    - ## Activación de Check
-     Los Check se activarán cuando sea seleccionado el parámetro que lo define, tales como: escribir el nombre de un campo, seleccionar el tipo de campo, seleccionar una capa, seleccionar el tipo de archivo, o abrir el explorador para guardar un archivo.  
-     De la misma manera se deseleccionará cuando la asignación o selección de algún parámetro vuelve a su estado inicial.
-     - ## Sugerencias
-       En los parámetros de nombre de capa o nombre de archivo el sistema sugerirá uno según el nombre o tipo de la capa de entrada.
+   Los Check se activarán cuando sea seleccionado el parámetro que lo define, tales como: escribir el nombre de un campo, seleccionar el tipo de campo, seleccionar una capa, seleccionar el tipo de archivo, o abrir el explorador para guardar un archivo.  
+   De la misma manera se deseleccionará cuando la asignación o selección de algún parámetro vuelve a su estado inicial.
+   - ## Sugerencias
+   En los parámetros de nombre de capa o nombre de archivo el sistema sugerirá uno según el nombre o tipo de la capa de entrada.
 
-     - ## Sistema de semáforo  
-     Dependiendo de la selección de los parámetros, el sistema indicará a taves de colores en el botón de ejecución o la etiqueta asociada al parámetro.
+   - ## Sistema de semáforo  
+   Dependiendo de la selección de los parámetros, el sistema indicará a taves de colores en el botón de ejecución o la etiqueta asociada al parámetro.
      Estos elementos cambiarán entre los colores ***Amarillo***, ***Rojo*** y ***Verde***.
      El color amarillo indica que los parámetros no han sido completados.  
 	
 <p align="center">
 <img src="img/Ge_58.png"  width="100" alt="Ejemplo de un botón de ejecuación color amarillo">  
-</p>  
+</p>
 
-     El color Rojo indica que un parametros es incorrecto, no válido o incompleto por lo que el proceso no podra ejecutarse.  
+   El color Rojo indica que un parametros es incorrecto, no válido o incompleto por lo que el proceso no podra ejecutarse.  
      
 <p align="center">
 <img src="img/Ge_59.png"  width="100" alt="Ejemplo de un botón de ejecuación color rojo">  
-</p>  
+</p>
 
-     Cuando las etiquetas y/o el botón de ejecutar cambia su color a verde, indica que el parámetro es correcto, que todos los requerimeintos fueron cumplidos y el proceso se ejecutara correctamente.  
-     
-     <p align="center">
+   Cuando las etiquetas y/o el botón de ejecutar cambia su color a verde, indica que el parámetro es correcto, que todos los requerimeintos fueron cumplidos y el proceso se ejecutara correctamente.  
+<p align="center">
 <img src="img/Ge_60.png"  width="100" alt="Ejemplo de un botón de ejecuación color verde">  
 </p>  
 
@@ -336,7 +335,7 @@ Ventana QoilDa.
 Ventana QoilDa. 
 
 <p align="center">
-<img src="img/Ge_72.png"  width=300" alt="Ventana emergente Capa no válida">  
+<img src="img/Ge_72.png"  width=200" alt="Ventana emergente Capa no válida">  
 </p> 
 
 Ventanas QoilDa, QoilDa, QoilTf, QoilUt. 
@@ -360,7 +359,7 @@ Ventana QoilVo.
 Ventana QoilVo.  
 
 <p align="center">
-<img src="img/Ge_76.png"  width=400" alt="Ventana emergente No existen los campos OILFIELD_NAME, AREA y VOLUME">  
+<img src="img/Ge_76.png"  width=450" alt="Ventana emergente No existen los campos OILFIELD_NAME, AREA y VOLUME">  
 </p> 
 
 Ventana QoilVo.  
@@ -395,7 +394,7 @@ Ventana QoilUt.
 
 Ventana QoilUt. 
 
-	- ### Mensajes de Precaución  
+   - ### Mensajes de Precaución  
 
 <p align="center">
 <img src="img/Ge_81.png"  width="300" alt="Ventana emergente Seleccione el tipo de geometría">  
@@ -410,7 +409,7 @@ Ventanas QoilCn, QoilUn.
 Ventanas QoilCn, QoilCo, QoilCp, QoilDg, QoilYo, QoilDa.  
 
 <p align="center">
-<img src="img/Ge_83.png"  width="300" alt="Ventana emergente Debe asignar un nombre a la nueva Capa">  
+<img src="img/Ge_83.png"  width="350" alt="Ventana emergente Debe asignar un nombre a la nueva Capa">  
 </p> 
 
 Ventana QoilYo.  
@@ -440,7 +439,7 @@ Ventana QoilYo.
 Ventana QoilDe.  
 
 <p align="center">
-<img src="img/Ge_88.png"  width="350" alt="Ventana emergente No hya elementos seleccionados, desactive la opción Solo Seleccionados">  
+<img src="img/Ge_88.png"  width="400" alt="Ventana emergente No hya elementos seleccionados, desactive la opción Solo Seleccionados">  
 </p> 
 
 Ventana QoilDe.  
@@ -505,10 +504,10 @@ Ventana QoilUt.
 
 Ventana QoilUt.  
 
-	- ## Mensajes de Información
+   - ## Mensajes de Información
 
 <p align="center">
-<img src="img/Ge_98.png"  width="200" alt="Ventana emergente El TVDSS es mayor al del pozo">  
+<img src="img/Ge_98.png"  width="250" alt="Ventana emergente El TVDSS es mayor al del pozo">  
 </p> 
 
 Ventana QoilCp.  
@@ -615,28 +614,28 @@ Ventana QoilCa.
 
 Ventana QoilUt.  
 
-	- ## Mensajes de Confirmación
+   - ## Mensajes de Confirmación
 
 <p align="center">
-<img src="img/Ge_116.png"  width="200" alt="Ventana emergente ATENCION La capa CAMPOS COV , no tiene geometrías válidas">  
+<img src="img/Ge_116.png"  width="250" alt="Ventana emergente ATENCION La capa CAMPOS COV , no tiene geometrías válidas">  
 </p> 
 
 Ventana QoilYo.  
 
 <p align="center">
-<img src="img/Ge_118.png"  width="400" alt="Ventana emergente ATENCION Se marco la opción para crear un campo nuevo, pero el campo existe, haz clic en">  
+<img src="img/Ge_118.png"  width="450" alt="Ventana emergente ATENCION Se marco la opción para crear un campo nuevo, pero el campo existe, haz clic en">  
 </p> 
 
 Ventanas QoilAr,QoilVo.  
 
 <p align="center">
-<img src="img/Ge_119.png"  width="400" alt="Ventana emergente ATENCION Se marco la opción para crear un campo nuevo, pero el campo VOLUMEN existe, haz clic en">  
+<img src="img/Ge_119.png"  width="450" alt="Ventana emergente ATENCION Se marco la opción para crear un campo nuevo, pero el campo VOLUMEN existe, haz clic en">  
 </p> 
 
 Ventana QoilVo.  
 
 <p align="center">
-<img src="img/Ge_120.png"  width="400" alt="Ventana emergente ATENCION Los CRS de las capas guías son distintos. Haz clic en Aceptar para continuar o Cancelar para salir">  
+<img src="img/Ge_120.png"  width="320" alt="Ventana emergente ATENCION Los CRS de las capas guías son distintos. Haz clic en Aceptar para continuar o Cancelar para salir">  
 </p> 
 
 Ventana QoilDi.  
@@ -648,47 +647,47 @@ Ventana QoilDi.
 Ventana QoilDi.  
 
 <p align="center">
-<img src="img/Ge_122.png"  width="400" alt="Ventana emergente ATENCION Para mantener la interoperabilidad de la información generada, se sugiere cambiar CAMPO por FIELD>  
+<img src="img/Ge_122.png"  width="450" alt="Ventana emergente ATENCION Para mantener la interoperabilidad de la información generada, se sugiere cambiar CAMPO por FIELD">  
+</p>  
+
+Ventana QoilUt.  
+
+<p align="center">
+<img src="img/Ge_123.png"  width="300" alt="Ventana emergente ATENCION El campo FIELD se creo con éxito">
 </p> 
 
 Ventana QoilUt.  
 
 <p align="center">
-<img src="img/Ge_123.png"  width="300" alt="Ventana emergente ATENCION El campo FIELD se creo con éxito>  
+<img src="img/Ge_124.png"  width="300" alt="Ventana emergente ATENCION La operación se ejecutó con éxito">  
 </p> 
 
 Ventana QoilUt.  
 
-<p align="center">
-<img src="img/Ge_124.png"  width="300" alt="Ventana emergente ATENCION La operación se ejecutó con éxito>  
-</p> 
-
-Ventana QoilUt.  
-
-	- ## Otros  
-	ATENCIÓN. No se puede ejecutar.\nRevisa la selección de los parámetros.  
-	Ventana QoilVo  
-	ATENCIÓN. Capa Buscar No Valida.  
-	Ventana QoilYo  
-	ATENCIÓN. Revise los parámetros.  
-	Ventana QoilAr  
-	ATENCIÓN. La capa Transferir no es válida.  
-	ATENCIÓN. No se puede ejecutar.\nRevise los parámetros Max y Min o no existe un Campo de atributo ID.  
-	ATENCIÓN. No hay objetos espaciales seleccionados.\nPresione el botón "Mostrar".  
-	Ventana QoilTf  
-	ATENCIÓN. No se pudo generar el archivo.  
-	ATENCIÓN. Capa de referencia No Válida.  
-	ATENCIÓN. Capa intersección No Válida.  
-	Ventana QoilDe  
+   - ## Otros  
+   ATENCIÓN. No se puede ejecutar.\nRevisa la selección de los parámetros.  
+Ventana QoilVo  
+   ATENCIÓN. Capa Buscar No Valida.  
+Ventana QoilYo  
+   ATENCIÓN. Revise los parámetros.  
+Ventana QoilAr  
+   ATENCIÓN. La capa Transferir no es válida.  
+   ATENCIÓN. No se puede ejecutar.\nRevise los parámetros Max y Min o no existe un Campo de atributo ID.  
+   ATENCIÓN. No hay objetos espaciales seleccionados.\nPresione el botón "Mostrar".  
+Ventana QoilTf  
+   ATENCIÓN. No se pudo generar el archivo.  
+   ATENCIÓN. Capa de referencia No Válida.  
+   ATENCIÓN. Capa intersección No Válida.  
+Ventana QoilDe  
 	
-	Manuales
-	========
-	Se prepararon 6 manuales de uso, segmentados para mejorar la experiencia con el usuario.
+   Manuales
+   ========
+   Se prepararon 6 manuales de uso, segmentados para mejorar la experiencia con el usuario.
 	
-	[1.	Generalidades del complemento]()
-	[2.	Manual QoilCn QoilCo QoilCp]()
-	[3.	Manual QoilDg QoilYo QoilDa QoilDe]()
-	[4.	Manual QoilTf QoilAr QoilVo]()
-	[5.	Manual QoilUn QoilDi QoilCa]()
-	[6.	Manual QoilUt]()
+   [1.	Generalidades del complemento]()  
+   [2.	Manual QoilCn QoilCo QoilCp]()  
+   [3.	Manual QoilDg QoilYo QoilDa QoilDe]()  
+   [4.	Manual QoilTf QoilAr QoilVo]()  
+   [5.	Manual QoilUn QoilDi QoilCa]()  
+   [6.	Manual QoilUt]()  
 
