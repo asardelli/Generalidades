@@ -249,19 +249,19 @@ A continuación, los enlaces si desea conocer los tips para cada ventana, recuer
 	
 <p align="center">
 <img src="img/Ge_58.png"  width="100" alt="Ejemplo de un botón de ejecuación color amarillo">  
-</p> 
+</p>  
 
      El color Rojo indica que un parametros es incorrecto, no válido o incompleto por lo que el proceso no podra ejecutarse.  
-
+     
 <p align="center">
 <img src="img/Ge_59.png"  width="100" alt="Ejemplo de un botón de ejecuación color rojo">  
-</p> 
+</p>  
 
      Cuando las etiquetas y/o el botón de ejecutar cambia su color a verde, indica que el parámetro es correcto, que todos los requerimeintos fueron cumplidos y el proceso se ejecutara correctamente.  
-
-<p align="center">
+     
+     <p align="center">
 <img src="img/Ge_60.png"  width="100" alt="Ejemplo de un botón de ejecuación color verde">  
-</p> 
+</p>  
 
    Mensajes de Alertas y errores  
    =============================  
