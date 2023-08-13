@@ -236,39 +236,38 @@ A continuación, los enlaces si desea conocer los tips para cada ventana, recuer
    ==================
    Las ventanas del complemento QoilTools cuentan con un sistema intuitivo para ayudar al usuario a definir los parámetros requeridos de manera correcta. Los cuales se describen a continuación:  
 
-   - ## Activación de Check  
-	Los Check se activarán cuando sea seleccionado el parámetro que lo define, tales como: escribir el nombre de un campo, seleccionar el tipo de campo, seleccionar una capa, seleccionar el tipo de archivo, o abrir el explorador para guardar un archivo.  
-	De la misma manera se deseleccionará cuando la asignación o selección de algún parámetro vuelve a su estado inicial.  
-	
-	- ## Sugerencias  
-	En los parámetros de nombre de capa o nombre de archivo el sistema sugerirá uno según el nombre o tipo de la capa de entrada.
-	
-	- ## Sistema de semáforo  
-	Dependiendo de la selección de los parámetros, el sistema indicará a taves de colores en el botón de ejecución o la etiqueta asociada al parámetro.
-	Estos elementos cambiarán entre los colores ***Amarillo***, ***Rojo*** y ***Verde***.  
-	El color amarillo indica que los parámetros no han sido completados.  
+   - ## Activación de Check
+     Los Check se activarán cuando sea seleccionado el parámetro que lo define, tales como: escribir el nombre de un campo, seleccionar el tipo de campo, seleccionar una capa, seleccionar el tipo de archivo, o abrir el explorador para guardar un archivo.  
+     De la misma manera se deseleccionará cuando la asignación o selección de algún parámetro vuelve a su estado inicial.
+     - ## Sugerencias
+       En los parámetros de nombre de capa o nombre de archivo el sistema sugerirá uno según el nombre o tipo de la capa de entrada.
+
+     - ## Sistema de semáforo  
+     Dependiendo de la selección de los parámetros, el sistema indicará a taves de colores en el botón de ejecución o la etiqueta asociada al parámetro.
+     Estos elementos cambiarán entre los colores ***Amarillo***, ***Rojo*** y ***Verde***.
+     El color amarillo indica que los parámetros no han sido completados.  
 	
 <p align="center">
 <img src="img/Ge_58.png"  width="100" alt="Ejemplo de un botón de ejecuación color amarillo">  
 </p> 
-	
-	El color Rojo indica que un parametros es incorrecto, no válido o incompleto por lo que el proceso no podra ejecutarse.  
-	
+
+     El color Rojo indica que un parametros es incorrecto, no válido o incompleto por lo que el proceso no podra ejecutarse.  
+
 <p align="center">
 <img src="img/Ge_59.png"  width="100" alt="Ejemplo de un botón de ejecuación color rojo">  
 </p> 
-	
-	Cuando las etiquetas y/o el botón de ejecutar cambia su color a verde, indica que el parámetro es correcto, que todos los requerimeintos fueron cumplidos y el proceso se ejecutara correctamente.  
-	
+
+     Cuando las etiquetas y/o el botón de ejecutar cambia su color a verde, indica que el parámetro es correcto, que todos los requerimeintos fueron cumplidos y el proceso se ejecutara correctamente.  
+
 <p align="center">
 <img src="img/Ge_60.png"  width="100" alt="Ejemplo de un botón de ejecuación color verde">  
 </p> 
+
+   Mensajes de Alertas y errores  
+   =============================  
+   QoilTools cuenta con un conjunto de mensajes clasificado de acuerdo a su origen en: Critico, Precaución, Informativo y Confirmación. A continuación, se presentan cada uno de ellos indicando la(s) ventana donde se podrían mostrar:  
 	
-	Mensajes de Alertas y errores  
-	=============================  
-	QoilTools cuenta con un conjunto de mensajes clasificado de acuerdo a su origen en: Critico, Precaución, Informativo y Confirmación. A continuación, se presentan cada uno de ellos indicando la(s) ventana donde se podrían mostrar:  
-	
-	- ### Mensajes Acción Critica  
+   - ### Mensajes Acción Critica  
 	
 <p align="center">
 <img src="img/Ge_61.png"  width="400" alt="Ventana emergente El nombre de la capa no debe contener caracteres especiales">  
