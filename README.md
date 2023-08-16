@@ -3,7 +3,7 @@ Generalidades del complemento QoilTools
 
    Sobre el Complemento  
    =====================  
-   QoilTools es el complemento principal del entorno que facilita el uso de QGIS en la caracterización de yacimientos. Potencial el uso y tratamiento de la información de subsuelo generada o de fuentes externas, su categorización, asignación de estilos, cartografiado, presentación y certificación, resguardo eficiente en Bases de Datos, Geopackage, Geojson, Shape File, entre otros. Todo esto,  a través de una interfaz sencilla e intuitiva, maximizando la eficiencia de los algoritmos nativos de QGIS y propios, junto a elemento como las librerías de simbologías necesarias en la industria de O&G. EL entorno que conforma QoilTools y QGIS facilitan el acceso a la información a un mayor grupo de usuarios, permite el seguimiento, actualización y oficialización de los datos con el máximo de seguridad y confidencialidad, adicionalmente consolida el uso de información digital válida y certificada, reduciendo el uso de impresiones en papel.  
+   <p style="text-align: justify;">QoilTools es el complemento principal del entorno que facilita el uso de QGIS en la caracterización de yacimientos. Potencial el uso y tratamiento de la información de subsuelo generada o de fuentes externas, su categorización, asignación de estilos, cartografiado, presentación y certificación, resguardo eficiente en Bases de Datos, Geopackage, Geojson, Shape File, entre otros. Todo esto,  a través de una interfaz sencilla e intuitiva, maximizando la eficiencia de los algoritmos nativos de QGIS y propios, junto a elemento como las librerías de simbologías necesarias en la industria de O&G. EL entorno que conforma QoilTools y QGIS facilitan el acceso a la información a un mayor grupo de usuarios, permite el seguimiento, actualización y oficialización de los datos con el máximo de seguridad y confidencialidad, adicionalmente consolida el uso de información digital válida y certificada, reduciendo el uso de impresiones en papel.</p>  
    
    Lenguaje  
    ========  
@@ -11,7 +11,7 @@ Generalidades del complemento QoilTools
 
    Desarrollador  
    =============  
-   Tanto QoilTools, QMapSymbolVE, QMapSymbol, las librerías y todo lo relacionado al entorno que permite potenciar a QGIS como la herramienta para trabajar con datos de subsuelo y superficie en la caracterización y explotación de yacimientos en la industria de O&G fue realizado por el Geólogo Aldo Sardelli asardelli@gmail.com  
+   <p style="text-align: justify;">Tanto QoilTools, QMapSymbolVE, QMapSymbol, las librerías y todo lo relacionado al entorno que permite potenciar a QGIS como la herramienta para trabajar con datos de subsuelo y superficie en la caracterización y explotación de yacimientos en la industria de O&G fue realizado por el Geólogo Aldo Sardelli asardelli@gmail.com</p>  
 
    Instalación  
    ===========  
@@ -190,7 +190,7 @@ Procedimiento para agregarla:
 </p>  
 
    - ## Sub-menú en el menú de la capa
-     Este menu se encuentra al al hacer clic con el botón derecho del mouse y se encuentran los tres procesos de uso frecuente para las capas vectoriales: Crear capa vector a partir de otra (QoilCo), Definir parámetros geológicos (QoilDg) y Herramientas adicionales (QoilUt), dentro de un menu llamado ***QoilTools***.
+     <p style="text-align: justify;">Este menu se encuentra al al hacer clic con el botón derecho del mouse y se encuentran los tres procesos de uso frecuente para las capas vectoriales: Crear capa vector a partir de otra (QoilCo), Definir parámetros geológicos (QoilDg) y Herramientas adicionales (QoilUt), dentro de un menu llamado ***QoilTools***.</p>
 
 <p align="center">
 <img src="img/Ge_28.png"  width="600" alt="Barra de Herramienta de la capa">  
@@ -237,7 +237,7 @@ A continuación, los enlaces si desea conocer los tips para cada ventana, recuer
    Las ventanas del complemento QoilTools cuentan con un sistema intuitivo para ayudar al usuario a definir los parámetros requeridos de manera correcta. Los cuales se describen a continuación:  
 
    - ## Activación de Check
-   Los Check se activarán cuando sea seleccionado el parámetro que lo define, tales como: escribir el nombre de un campo, seleccionar el tipo de campo, seleccionar una capa, seleccionar el tipo de archivo, o abrir el explorador para guardar un archivo.  
+   <p style="text-align: justify;">Los Check se activarán cuando sea seleccionado el parámetro que lo define, tales como: escribir el nombre de un campo, seleccionar el tipo de campo, seleccionar una capa, seleccionar el tipo de archivo, o abrir el explorador para guardar un archivo.</p>  
    De la misma manera se deseleccionará cuando la asignación o selección de algún parámetro vuelve a su estado inicial.
    - ## Sugerencias
    En los parámetros de nombre de capa o nombre de archivo el sistema sugerirá uno según el nombre o tipo de la capa de entrada.
