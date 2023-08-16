@@ -685,9 +685,9 @@ Ventana QoilDe
    Se prepararon 6 manuales de uso, segmentados para mejorar la experiencia con el usuario.
 	
    [1.	Generalidades del complemento]()  
-   [2.	Manual QoilCn QoilCo QoilCp]()  
-   [3.	Manual QoilDg QoilYo QoilDa QoilDe]()  
-   [4.	Manual QoilTf QoilAr QoilVo]()  
-   [5.	Manual QoilUn QoilDi QoilCa]()  
-   [6.	Manual QoilUt]()  
+   [2.	Manual QoilCn QoilCo QoilCp](https://github.com/asardelli/Manual_QoilCn_QoilCo_QoilCp.git)  
+   [3.	Manual QoilDg QoilYo QoilDa QoilDe](https://github.com/asardelli/Manual_QoilDg_OoilYo_QoilDa_QoilDe.git)  
+   [4.	Manual QoilTf QoilAr QoilVo](https://github.com/asardelli/Manual_QoilTf_QoilAr_QoilVo.git)  
+   [5.	Manual QoilUn QoilDi QoilCa](https://github.com/asardelli/Manual_QoilUn_QoilDi_QoilCa.git)  
+   [6.	Manual QoilUt](https://github.com/asardelli/Manual_QoilUt.git)  
 
